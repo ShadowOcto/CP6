@@ -6,3 +6,4 @@ seb.png
 soley.png
 soley2.png
 wasureta.gif
+shadow.png
